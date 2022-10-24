@@ -1,0 +1,3 @@
+USA: Washington
+Germany: Berlin
+Russia: Moscow
